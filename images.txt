@@ -6,3 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 alpine:3.19.1
 easzlab/kubeasz:3.6.4
+easzlab/kubeasz-k8s-bin:v1.30.1
